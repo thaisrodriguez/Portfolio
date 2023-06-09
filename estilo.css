@@ -127,6 +127,9 @@ html{
     line-height: 22px;
     margin-bottom: 20px;
 }
+.sobremi .contenido-seccion a{
+    text-decoration:none;
+}
 .sobremi .contenido-seccion p span{
     color: #ff8686;
     font-weight: bold;
